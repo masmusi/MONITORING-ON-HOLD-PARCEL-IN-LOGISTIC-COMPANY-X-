@@ -35,3 +35,8 @@ THIS REPOSITORY IS PURPOSE OF MONITORING ONHOLD PACKAGES FROM JUNE 1 - JUNE 15, 
 
 ![image](https://user-images.githubusercontent.com/108322484/177122813-be36b578-4355-4126-901f-6dac80b29640.png)
 
+
+The conclusions and suggestions from the monitoring results are:
+
+1. More attention to the process or delivery of goods so that not many packages are destroyed
+2. For the Batam hub, the performance of the hub should be improved so that there are not many onhold packages
