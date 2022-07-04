@@ -7,6 +7,12 @@ THIS REPOSITORY IS PURPOSE OF MONITORING ONHOLD PACKAGES FROM JUNE 1 - JUNE 15, 
 
 
 
+**The first thing I did was normalize the data by removing missing values and duplicated data.
+
+![image](https://user-images.githubusercontent.com/108322484/177123848-9556f5db-3220-46dd-b547-519020a2c174.png)
+
+![image](https://user-images.githubusercontent.com/108322484/177123933-d79f9782-6607-45df-bd79-6a80e34d3e28.png)
+
 
 
 1. From the results of observations using jupyter notebooks, it was found that "Batam Hub" with the most onhold packages :
